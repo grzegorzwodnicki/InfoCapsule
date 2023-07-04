@@ -1,0 +1,4 @@
+db.sqlite3
+infocapsuleProject/__pycache__
+infocapsule/__pycache__
+infocapsule/migrations/__pycache__
